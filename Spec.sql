@@ -2,8 +2,8 @@
 
 #FigureSkatingCompetition
 
-MSU skating club is hosting a comptetition, a database is required to record all competitors' data.
-The database will contain a record of the skaters' previous competition history for predioctions and current competition data.
+MSU skating club is hosting a competition, a database is required to record all competitors' data.
+The database will contain a record of the skaters' previous competition history for predictions and current competition data.
 
 Each skater is affiliated with a country and has a coach.
 Programs are either short -2:50 minutes or long - 4:10 minutes.
@@ -25,13 +25,16 @@ Q: What year did the skaters start competing?
 A: The first year of this competition was 2016.
 
 Q: Is there an age limit?
-A: Yes, skaters must be 13 yo and older
+A: Yes, skaters must be 13 years and older
 
 Q: What's the highest possible score?
-A: There's no limit, thus no score over 113.97 was achieved yet for a short program in technical score..
+A: No score over 113.97 was achieved yet for a short program in technical score but there is no limit
 
 Q: What are the skating level one could reach?
 A: There are three levels: beginner, intermediate and pro.
+
+Q: How is the score recorded for skaters who did not yet compete?
+A: It is recorded as a null.
 
 
 Sample Data
